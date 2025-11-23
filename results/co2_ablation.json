@@ -1,0 +1,45 @@
+{
+  "normal": {
+    "energy": -3.033333333333333,
+    "configuration": {
+      "CO2": 1,
+      "EC": 1,
+      "LED": 1,
+      "fan": 1,
+      "heater": -1,
+      "irrigation": 1,
+      "misting": 1,
+      "pH": 1
+    },
+    "co2_state": "ON",
+    "metadata": {
+      "mean_energy": -2.946199999999999,
+      "std_energy": 0.21756992234937056,
+      "elapsed_time": 0.24306845664978027
+    }
+  },
+  "ablation": {
+    "energy": -1002.6333333333333,
+    "configuration": {
+      "CO2": -1,
+      "EC": 1,
+      "LED": -1,
+      "fan": 1,
+      "heater": -1,
+      "irrigation": 1,
+      "misting": 1,
+      "pH": 1
+    },
+    "co2_state": "OFF",
+    "metadata": {
+      "mean_energy": -1002.5525333333333,
+      "std_energy": 0.20547025737727914,
+      "elapsed_time": 0.21495628356933594
+    }
+  },
+  "comparison": {
+    "energy_difference": -999.6,
+    "energy_ratio": 330.53846153846155,
+    "co2_penalty": 0.0
+  }
+}

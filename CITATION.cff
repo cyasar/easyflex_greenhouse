@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Yaşar"
+    given-names: "Cumali"
+title: "Multi-Objective Climatic Optimisation of Agricultural Greenhouse Systems Using the Quantum Ising Model"
+version: "1.0.0"
+date-released: "2025-01-01"
+type: "Computational Reproducibility Package"
+repository-code: "https://github.com/cyasar/greenhouse-qim-optimisation"
+abstract: "Complete computational reproducibility package for multi-objective optimization of agricultural greenhouse systems using quantum Ising models. Includes data preprocessing, exploratory analysis, Ising Hamiltonian construction, classical and quantum optimization, and CO₂ sensitivity/ablation experiments."
+keywords:
+  - "quantum computing"
+  - "Ising model"
+  - "greenhouse optimization"
+  - "simulated annealing"
+  - "quantum annealing"
+  - "agricultural automation"
+license: "MIT"
+identifiers:
+  - type: "doi"
+    value: "10.XXXXX/XXXXX"  # Update with actual DOI if available
+related-resources:
+  - type: "Dataset"
+    title: "greenhouse_data.xlsx"
+    description: "Real dataset from EasyFlex Smart Greenhouse Automation System"
+  - type: "Project"
+    title: "TÜBİTAK Project 7240482"
+    description: "Topraksız Tarıma Yönelik Makine Öğrenimi Tabanlı Akıllı Sistem Çözümleri"
+

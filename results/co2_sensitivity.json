@@ -1,0 +1,86 @@
+{
+  "lambda_values": [
+    0.0,
+    0.25,
+    0.5,
+    1.0
+  ],
+  "energies": [
+    -3.033333333333333,
+    -3.283333333333333,
+    -3.533333333333333,
+    -4.033333333333333
+  ],
+  "configurations": [
+    {
+      "CO2": 1,
+      "EC": 1,
+      "LED": 1,
+      "fan": 1,
+      "heater": -1,
+      "irrigation": 1,
+      "misting": 1,
+      "pH": 1
+    },
+    {
+      "CO2": 1,
+      "EC": 1,
+      "LED": 1,
+      "fan": 1,
+      "heater": -1,
+      "irrigation": 1,
+      "misting": 1,
+      "pH": 1
+    },
+    {
+      "CO2": 1,
+      "EC": 1,
+      "LED": 1,
+      "fan": 1,
+      "heater": -1,
+      "irrigation": 1,
+      "misting": 1,
+      "pH": 1
+    },
+    {
+      "CO2": 1,
+      "EC": 1,
+      "LED": 1,
+      "fan": 1,
+      "heater": -1,
+      "irrigation": 1,
+      "misting": 1,
+      "pH": 1
+    }
+  ],
+  "metadata": [
+    {
+      "lambda": 0.0,
+      "best_energy": -3.033333333333333,
+      "mean_energy": -2.934866666666666,
+      "std_energy": 0.22393918817393266,
+      "elapsed_time": 0.24541115760803223
+    },
+    {
+      "lambda": 0.25,
+      "best_energy": -3.283333333333333,
+      "mean_energy": -3.210999999999999,
+      "std_energy": 0.19593394578559137,
+      "elapsed_time": 0.24281001091003418
+    },
+    {
+      "lambda": 0.5,
+      "best_energy": -3.533333333333333,
+      "mean_energy": -3.454799999999999,
+      "std_energy": 0.2032438710296354,
+      "elapsed_time": 0.23858261108398438
+    },
+    {
+      "lambda": 1.0,
+      "best_energy": -4.033333333333333,
+      "mean_energy": -3.9573333333333323,
+      "std_energy": 0.20022653836758675,
+      "elapsed_time": 0.23785877227783203
+    }
+  ]
+}
